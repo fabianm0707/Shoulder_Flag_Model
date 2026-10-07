@@ -1,6 +1,8 @@
 # Shoulder Flag Model
 Intensity and frequency of collisions detected from Catapult GPS Systems provides a relationship to Shoulder injuries in a football season
-## This repository is intended to collect data from Catapult and a clean dataset for injuries at a Division I Football program. The process to complete this: 
+## This repository is intended to collect data from Catapult and a clean dataset for injuries at a Division I Football program. 
+
+The process to complete this: 
 - Api documentation and uploading from Catapult Sports
 - Database creation for both tables
 - Downloading Injury DB for the football team
