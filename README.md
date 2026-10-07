@@ -11,3 +11,5 @@ The process to complete this:
 ## Proposed Statistical Analysis
 - This project will have a logistic regression approach to evaluate the dependent variable of having a shoulder injury itself and what were the most impactful metrics that are related to this
 
+## To applied it, the end product should be a dashboard with the information from all findings and the risk of injury and interventions to complete
+
